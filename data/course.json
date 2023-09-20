@@ -1,0 +1,51 @@
+{
+  "term": "Spring",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ],
+    [
+      "Social Science",
+      "Anthropology"
+    ]
+  ],
+  "legacy_uid": "caa5c4c2-8fbb-ed92-5a07-5237d422614e",
+  "instructors": {
+    "content": [
+      "7768c26c-eca1-2f3a-74e6-dda1ddb5c354"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "98b1ffd5-1ccd-e7c5-0c91-e1efc3e3147d",
+    "website": "21a-00-introduction-to-anthropology-spring-2013"
+  },
+  "course_title": "Introduction to Anthropology",
+  "course_description": "Through the comparative study of different cultures, anthropology explores fundamental questions about what it means to be human. It seeks to understand how culture both shapes societies, from the smallest island in the South Pacific to the largest Asian metropolis, and affects the way institutions work, from scientific laboratories to Christian mega-churches. This course will provide a framework for analyzing diverse facets of human experience such as gender, ethnicity, language, politics, economics, and art.\n",
+  "department_numbers": [
+    "21A"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21A.00",
+  "course_image_thumbnail": {
+    "content": "ce350f13-d598-fd0a-bf69-5eb916ea3553",
+    "website": "21a-00-introduction-to-anthropology-spring-2013"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "ab142cc7-6743-4ca8-a790-0326a579cf40",
+  "site_short_id": "21a.00-spring-2013",
+  "title": "Course Metadata"
+}
